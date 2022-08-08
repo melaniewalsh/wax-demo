@@ -1,0 +1,4 @@
+pid,artist,location,label,_date,object_type,current_location,source,order,layout,collection
+obj1,Melanie Walsh,Mt. Rainier,Top of the mountain,Jul-22,photograph,"The Museum of Islamic Art, Qatar",,0,qatar_item,rainier
+obj2,Melanie Walsh,Mt. Rainier,Anna on the mountain,Jul-22,photograph,"The Museum of Islamic Art, Qatar",,1,qatar_item,rainier
+obj3,Melanie Walsh,Mt. Rainier,Panorama,Jul-22,photograph,"The Museum of Islamic Art, Qatar",,2,qatar_item,rainier

@@ -1,0 +1,4 @@
+pid,artist,location,label,_date,object_type,current_location,source,order,layout,collection,thumbnail,manifest,full
+obj1,Melanie Walsh,Mt. Rainier,Top of the mountain,22-Jul,photograph,"Mt. Rainier, WA",,0,qatar_item,rainier,/img/derivatives/simple/obj1/thumbnail.jpg,/img/derivatives/iiif/obj1/manifest.json,/img/derivatives/simple/obj1/fullwidth.jpg
+obj3,Melanie Walsh,Mt. Rainier,Anna on the mountain,22-Jul,photograph,"Mt. Rainier, WA",,1,qatar_item,rainier,/img/derivatives/simple/obj3/thumbnail.jpg,/img/derivatives/iiif/obj3/manifest.json,/img/derivatives/simple/obj3/fullwidth.jpg
+obj2,Melanie Walsh,Mt. Rainier,Panorama,22-Jul,photograph,"Mt. Rainier, WA",,2,qatar_item,rainier,/img/derivatives/simple/obj2/thumbnail.jpg,/img/derivatives/iiif/obj2/manifest.json,/img/derivatives/simple/obj2/fullwidth.jpg
